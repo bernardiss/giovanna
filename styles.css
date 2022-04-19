@@ -1,6 +1,6 @@
 .lawyer {
   width: 100%;
-  height: 1050px;
+  height: 75%;
   position: relative;
   z-index: -1;
 }
@@ -97,3 +97,25 @@ h3 {
 #sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
 }
+
+@media screen and (max-width: 500px) and (min-width: 300px) {
+.giovanna {
+width:300px;
+heigth: 300px;
+}
+.money {
+width:300px;
+heigth: 300px;
+}
+                }
+
+@media screen and (max-width: 300px) and (min-width: 0px) {
+ .giovanna {
+width:150px;
+heigth: 150px;
+}
+.money {
+width:150px;
+heigth: 150px;
+}
+                  }
