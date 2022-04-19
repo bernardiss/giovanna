@@ -27,11 +27,12 @@ height: 80%;
 }
 
 .colunas-bg {
-  background-image: url("bg2.jpg");
+  background-image: url("bg2.png");
   padding-top: 2%;
   padding-bottom: 2%;
   margin-left: 0;
-  margin-right:
+  margin-right: 0;
+  width: 100%;
 }
 
 .bg {
