@@ -1,6 +1,6 @@
 .lawyer {
   width: 100%;
-  height: 75%;
+  height: 55%;
   position: relative;
   z-index: -1;
 }
@@ -111,11 +111,11 @@ heigth: 300px;
 
 @media screen and (max-width: 300px) and (min-width: 0px) {
  .giovanna {
-width:150px;
-heigth: 150px;
+width:250px;
+heigth: 250px;
 }
 .money {
-width:150px;
-heigth: 150px;
+width:250px;
+heigth: 250px;
 }
                   }
