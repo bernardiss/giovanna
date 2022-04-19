@@ -93,3 +93,132 @@ h3 {
 #sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
 }
+
+@media screen and (max-width: 1600px) and (min-width: 1401px) {
+  .lawyer {
+    width: 1600px;
+    height: 875px;
+    position: relative;
+    z-index: -1;
+}
+  .formulario {
+      width: 1101.83px;
+      padding: 2px 4px;
+      margin-top: 12px;
+      border: 0;
+    }
+  }
+
+  @media screen and (max-width: 1400px) and (min-width: 1201px) {
+    .lawyer {
+      width: 1400px;
+      height: 765.63px;
+      position: relative;
+      z-index: -1;
+  }
+    .formulario {
+        width: 944.54px;
+        padding: 2px 4px;
+        margin-top: 12px;
+        border: 0;
+      }
+    }
+
+    @media screen and (max-width: 1200px) and (min-width: 1001px) {
+      .lawyer {
+        width: 1200px;
+        height: 656.25px;
+        position: relative;
+        z-index: -1;
+    }
+      .formulario {
+          width: 787.24px;
+          padding: 2px 4px;
+          margin-top: 12px;
+          border: 0;
+        }
+      }
+
+      @media screen and (max-width: 1000px) and (min-width: 975px) {
+        .lawyer {
+          width: 1000px;
+          height: 546.88px;
+          position: relative;
+          z-index: -1;
+      }
+        .formulario {
+            width: 766.80px;
+            padding: 2px 4px;
+            margin-top: 12px;
+            border: 0;
+          }
+        }
+
+        @media screen and (max-width: 975px) and (min-width: 751px) {
+          .lawyer {
+            width: 975px;
+            height: 381.37px;
+            position: relative;
+            z-index: -1;
+        }
+          .formulario {
+              width: 590.63px;
+              padding: 2px 4px;
+              margin-top: 12px;
+              border: 0;
+            }
+          }
+
+          @media screen and (max-width: 751px) and (min-width: 0px) {
+            .formulario {
+                width: 300px;
+                padding: 2px 4px;
+                margin-top: 12px;
+                border: 0;
+              }
+            }
+
+            @media screen and (max-width: 751px) and (min-width: 500px) {
+              .lawyer {
+                width: 751px;
+                height: 410.70px;
+                position: relative;
+                z-index: -1;
+            }
+              .formulario {
+                  width: 300px;
+                  padding: 2px 4px;
+                  margin-top: 12px;
+                  border: 0;
+                }
+              }
+
+              @media screen and (max-width: 500px) and (min-width: 300px) {
+                .lawyer {
+                  width: 500px;
+                  height: 273.44px;
+                  position: relative;
+                  z-index: -1;
+              }
+                .formulario {
+                    width: 300px;
+                    padding: 2px 4px;
+                    margin-top: 12px;
+                    border: 0;
+                  }
+                }
+
+                @media screen and (max-width: 300px) and (min-width: 0px) {
+                  .lawyer {
+                    width: 300px;
+                    height: 164.06px;
+                    position: relative;
+                    z-index: -1;
+                }
+                  .formulario {
+                      width: 300px;
+                      padding: 2px 4px;
+                      margin-top: 12px;
+                      border: 0;
+                    }
+                  }
