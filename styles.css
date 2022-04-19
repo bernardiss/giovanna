@@ -11,8 +11,8 @@
 
 .descricao {
   padding-top: 7.5%;
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 .giovanna {
@@ -56,7 +56,7 @@ heigth: 80%;
   width: 78.65%;
   padding: 2px 4px;
   margin-top: 12px;
-  border: 0;
+  border: 0px;
 }
 
 .contato {
@@ -98,8 +98,8 @@ h3 {
 
 #sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
-  padding-right: 0;
-  padding-left: 0;
+  padding-right: 0px;
+  padding-left: 0px;
 }
 
 @media screen and (max-width: 500px) and (min-width: 300px) {
@@ -122,4 +122,4 @@ heigth: 250px;
 width:250px;
 heigth: 250px;
 }
-                  }
+ }
