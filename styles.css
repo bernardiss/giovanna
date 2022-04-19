@@ -98,12 +98,8 @@ h3 {
   padding-bottom: 2%;
 }
 
-#sobre, #atuacao, #carousel, #localizacao, #contatos {
+#sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
-  padding-right: 0;
-  padding-left: 0;
-  margin-right: 0;
-  margin-left: 0;
 }
 
 @media screen and (max-width: 500px) and (min-width: 300px) {
