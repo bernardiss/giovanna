@@ -11,8 +11,8 @@
 
 .descricao {
   padding-top: 7.5%;
-  padding-right: 0px;
-  padding-left: 0px;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .giovanna {
@@ -21,8 +21,8 @@ height: 80%;
 }
 
 .money {
-  height: 10.42%;
-  width: 10.42%;
+  height: 80%;
+  width: 80%;
   padding-left: 15%;
 }
 
@@ -58,7 +58,7 @@ height: 80%;
   width: 78.65%;
   padding: 2px 4px;
   margin-top: 12px;
-  border: 0px;
+  border: 0;
 }
 
 .contato {
@@ -100,8 +100,10 @@ h3 {
 
 #sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
-  padding-right: 0px;
-  padding-left: 0px;
+  padding-right: 0;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
 }
 
 @media screen and (max-width: 500px) and (min-width: 300px) {
