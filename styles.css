@@ -1,0 +1,95 @@
+.lawyer {
+  width: 1920px;
+  height: 1050px;
+  position: relative;
+  z-index: -1;
+}
+
+.icon:hover {
+  color: #3256a8;
+}
+
+.descricao {
+  padding-top: 7.5%;
+}
+
+.money {
+  height: 500px;
+  width: 580px;
+  ;
+  padding-left: 15%;
+}
+
+.colunas-bg {
+  background-image: url("../images/bg2.jpg");
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+.bg {
+  height: 800px;
+  width: 1920px;
+}
+
+.pessoa {
+  position: relative;
+  bottom: 500px;
+}
+
+.txt-carousel {
+  position: relative;
+  bottom: 400px;
+}
+
+.card {
+  width: 1510px;
+  text-align: center;
+}
+
+.formulario {
+  width: 1510px;
+  padding: 2px 4px;
+  margin-top: 12px;
+  border: 0;
+}
+
+.contato {
+  padding-top: 70px;
+  position: relative;
+  left: 13.5%;
+  padding-bottom: 4%;
+}
+
+.tel {
+  position: relative;
+  top: 17px;
+}
+
+.localizacao {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+p {
+  font-size: 1.15rem;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+h3 {
+  text-align: center;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#sobre, #atuacao, #carousel, #localizacao {
+  background-color: #7eaffc;
+}
