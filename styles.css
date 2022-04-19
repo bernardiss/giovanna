@@ -105,22 +105,28 @@ h3 {
 
 @media screen and (max-width: 500px) and (min-width: 300px) {
 .giovanna {
-width:300px;
+width: 300px;
 heigth: 300px;
 }
 .money {
-width:300px;
+width: 300px;
 heigth: 300px;
 }
                 }
 
 @media screen and (max-width: 300px) and (min-width: 0px) {
  .giovanna {
-width:250px;
+width: 250px;
 heigth: 250px;
 }
 .money {
-width:250px;
+width: 250px;
 heigth: 250px;
 }
  }
+
+@media screen and (max-width: 4000px) and (min-width: 1920px) {
+body {
+width: 1920px;
+}
+}
