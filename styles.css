@@ -11,6 +11,8 @@
 
 .descricao {
   padding-top: 7.5%;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 .giovanna {
@@ -96,6 +98,8 @@ h3 {
 
 #sobre, #atuacao, #carousel, #localizacao {
   background-color: #7eaffc;
+  padding-right: 0;
+  padding-left: 0;
 }
 
 @media screen and (max-width: 500px) and (min-width: 300px) {
